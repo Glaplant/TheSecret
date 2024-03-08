@@ -1,5 +1,4 @@
-:root {
-}
+:root {}
 
 * {
 	box-sizing: border-box;
@@ -91,6 +90,7 @@ ul.sub-list:hover {
 	max-width: 400px;
 	padding: 1vw 2vw;
 	padding-left: 0;
+	margin-top: -5vw;
 }
 
 .tile-row {
@@ -110,9 +110,9 @@ ul.sub-list:hover {
 
 h1 {
 	text-align: center;
-	color:#ffffff;
+	color: #ffffff;
 }
 
-.header-title-section{
-	background-color:#000000;
+.header-title-section {
+	background-color: #000000;
 }
